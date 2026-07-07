@@ -1,0 +1,42 @@
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.python-version
+.pytest_cache/
+.mypy_cache/
+
+# Backend secrets and local runtime files
+backend/.env
+backend/.env.*
+backend/credentials.json
+backend/token_google.json
+backend/uploads/
+backend/logs/
+backend/database/
+backend/venv/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.vite/
+frontend/*.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+
+# Misc
+*.log

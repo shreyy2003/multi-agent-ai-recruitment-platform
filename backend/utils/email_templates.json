@@ -1,0 +1,32 @@
+{
+  "engineering": {
+    "domain": "Engineering",
+    "subject": "Candidate Submission: {{candidate_name}} — {{role}} | The Jobs Jungle",
+    "body": "Dear {{client_contact}},\n\nI hope this message finds you well.\n\nI am pleased to submit {{candidate_name}} for the {{role}} position at {{client_name}}. Having reviewed their profile thoroughly, I believe they present a strong match for the technical and cultural requirements of this role.\n\nPlease find attached their CV for your review. {{debrief_section}}\n\nWe would be happy to arrange a technical interview at your earliest convenience. Please let us know your preferred timeline and any specific areas you would like explored further.\n\nBest regards,\nThe Jobs Jungle Team\ncontact@thejobsjungle.com"
+  },
+  "product_management": {
+    "domain": "Product Management",
+    "subject": "Candidate Submission: {{candidate_name}} — {{role}} | The Jobs Jungle",
+    "body": "Dear {{client_contact}},\n\nI hope you are doing well.\n\nI am delighted to put forward {{candidate_name}} for the {{role}} opportunity at {{client_name}}. Their product thinking, stakeholder management experience, and track record of delivering impactful outcomes make them a compelling candidate for your team.\n\nTheir CV is attached for your reference. {{debrief_section}}\n\nPlease feel free to reach out if you would like to discuss their profile in more detail or proceed to the next stage.\n\nBest regards,\nThe Jobs Jungle Team\ncontact@thejobsjungle.com"
+  },
+  "data_ai": {
+    "domain": "Data & AI",
+    "subject": "Candidate Submission: {{candidate_name}} — {{role}} | The Jobs Jungle",
+    "body": "Dear {{client_contact}},\n\nI hope this note finds you well.\n\nI am excited to submit {{candidate_name}} for the {{role}} role at {{client_name}}. Their depth of expertise in data engineering, machine learning, and AI-driven solutions positions them as a strong fit for the technical demands of this position.\n\nPlease find their CV attached. {{debrief_section}}\n\nWe are confident they would bring significant value to your data and AI initiatives. Do let us know if you would like to explore next steps.\n\nBest regards,\nThe Jobs Jungle Team\ncontact@thejobsjungle.com"
+  },
+  "quality_assurance": {
+    "domain": "Quality Assurance",
+    "subject": "Candidate Submission: {{candidate_name}} — {{role}} | The Jobs Jungle",
+    "body": "Dear {{client_contact}},\n\nI hope you are well.\n\nI am pleased to introduce {{candidate_name}} for the {{role}} position at {{client_name}}. Their hands-on experience in test strategy, automation frameworks, and quality processes demonstrates a strong ability to uphold and elevate engineering standards.\n\nTheir CV is attached for your review. {{debrief_section}}\n\nWe look forward to hearing your thoughts and are happy to coordinate next steps at your convenience.\n\nBest regards,\nThe Jobs Jungle Team\ncontact@thejobsjungle.com"
+  },
+  "devops_cloud": {
+    "domain": "DevOps & Cloud",
+    "subject": "Candidate Submission: {{candidate_name}} — {{role}} | The Jobs Jungle",
+    "body": "Dear {{client_contact}},\n\nI hope this message finds you well.\n\nI am writing to submit {{candidate_name}} for the {{role}} role at {{client_name}}. Their experience across cloud infrastructure, CI/CD pipelines, and site reliability practices makes them well-suited to support and scale your engineering operations.\n\nPlease find their CV attached. {{debrief_section}}\n\nWe would welcome the opportunity to discuss their background further. Please let us know how you would like to proceed.\n\nBest regards,\nThe Jobs Jungle Team\ncontact@thejobsjungle.com"
+  },
+  "business_gtm": {
+    "domain": "Business & GTM",
+    "subject": "Candidate Submission: {{candidate_name}} — {{role}} | The Jobs Jungle",
+    "body": "Dear {{client_contact}},\n\nI hope you are having a great day.\n\nI am delighted to submit {{candidate_name}} for the {{role}} position at {{client_name}}. Their commercial acumen, go-to-market experience, and ability to drive revenue and growth align well with the strategic priorities of this role.\n\nTheir CV is attached for your consideration. {{debrief_section}}\n\nWe are confident in their ability to make an immediate impact. Do not hesitate to reach out if you would like to discuss further or arrange an introduction call.\n\nBest regards,\nThe Jobs Jungle Team\ncontact@thejobsjungle.com"
+  }
+}
